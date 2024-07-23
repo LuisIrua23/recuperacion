@@ -12,6 +12,7 @@
             <td>
                 <h4>id category
             </td>
+            <br>
             <td>
                 <h4>codigo
             </td>
