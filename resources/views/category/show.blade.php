@@ -6,9 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hola show</h1>
+    <center>
+        <h1>Categorias</h1>
     <tr>
         {{$category}}
     </tr>
+    </center>
 </body>
 </html>
